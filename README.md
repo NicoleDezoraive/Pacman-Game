@@ -3,8 +3,8 @@
 This game was created as part of the course Internet Programming Environments, April 2021.
 
 ## Developers:
-  * Lahan Barmocha, 205590656 , לחן ברמוכה, [Email](barmocha@post.bgu.ac.il),[Git](https://github.com/Barmocha),[Linkedin](https://www.linkedin.com/in/lahan-barmocha-3350ab156/) 
-  * Nicole Dezoraive, ניקול דזוראיב, 313584294 ,[Email](nicoled@post.bgu.ac.il),[Git](https://github.com/NicoleDezoraive),[Linkedin](https://www.linkedin.com/in/nicole-dezoraive-124b74168)
+  * Nicole Dezoraive, ניקול דזוראיב ,[Email](nicoled@post.bgu.ac.il),[Git](https://github.com/NicoleDezoraive),[Linkedin](https://www.linkedin.com/in/nicole-dezoraive-124b74168)
+  * Lahan Barmocha , לחן ברמוכה, [Email](barmocha@post.bgu.ac.il),[Git](https://github.com/Barmocha),[Linkedin](https://www.linkedin.com/in/lahan-barmocha-3350ab156/) 
 
 ## Website:
 [Pacman Game by Lahan & Nicole](https://web-development-environments-2021.github.io/Assignment2_313584294_205590656/)
